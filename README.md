@@ -1,1 +1,1 @@
-# booki-starter-pack
+# Booki-soutenance Open Classroom projet 2
